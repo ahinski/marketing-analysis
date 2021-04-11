@@ -2,6 +2,8 @@
 Dataset was taken from [Kaggle](https://www.kaggle.com/jackdaoud/marketing-data).
 This data set was provided to students for their final project in order to test their statistical analysis skills as part of a MSc. in Business Analytics.
 
+This is data about retail shop clients and advertising campaigns it have conducted.
+
 ## Goal
 Improve and strengthen skills in data analysis.
 ## Achievements
