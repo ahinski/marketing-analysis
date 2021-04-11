@@ -8,7 +8,8 @@ Improve and strengthen skills in data analysis.
 Completed all tasks provided by dataset creator, applied statistic methods to make conclusions on data. Have built dashboards in Tableau for the 4th section.
 
 **Analyst report is presented here in md file**
-**All data preparation, cleaning etc. are available in jupyter notebook.**
+
+**All data preparation, cleaning etc. are available in [jupyter notebook](https://nbviewer.jupyter.org/github/ahinski/marketing-analysis/blob/main/analysis.ipynb).**
 
 ## Tasks
 You're a marketing analyst and you've been told by the Chief Marketing Officer that recent marketing campaigns have not been as effective as they were expected to be. You need to analyze the data set to understand this problem and propose data-driven solutions.
